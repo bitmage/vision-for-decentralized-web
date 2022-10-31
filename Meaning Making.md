@@ -1,0 +1,1 @@
+Makes use of [[Personal Values]], [[Personal History]], [[Personal Goals]], [[Personal AI]], [[Spiritual Development]].

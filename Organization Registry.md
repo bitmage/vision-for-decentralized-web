@@ -1,0 +1,1 @@
+A place where organizations can register themselves and be found by individuals and other organizations.

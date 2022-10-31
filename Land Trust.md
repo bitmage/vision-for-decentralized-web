@@ -1,0 +1,1 @@
+The idea that land could be devoted to certain purposes in perpetuity, and the legal structures to make it so.

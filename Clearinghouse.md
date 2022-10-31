@@ -1,0 +1,1 @@
+Makes use of [[Goods & Services Marketplace]], [[Community Currency]]

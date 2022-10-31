@@ -1,0 +1,9 @@
+Makes use of [[Public Ledger]], [[Public & Secret Key]].
+
+One of the foundational capabilities of [[Public & Secret Key]] cryptography is the ability to create signed cryptographic statements, and for those statements to be independently verified for their authenticity.  If we want to create a society based on autonomy, consent, and the rule of law, this provides us an important building block.
+
+Let's say Mary agrees to create a driveway easement for Bob to access his house.  This can be spelled out as an agreement referencing specific survey coordinates, GPS coordinates, property addresses, and any other supporting information.  Bob and Mary can both sign the agreement, and ask a set of witnesses to sign it.
+
+Now at this point, they could post it to a public ledger, or a ledger run by county or state officials.  But they could also hang onto their copies, not needing to notify authorities of their agreement unless a dispute arises.  Even in the case of a dispute, they can arrange for an independent [[Adjudicator]] to oversee the case.  If they were forward thinking, maybe their agreement made mention of a specific adjudicator or an organization or standards body to be used for selection.
+
+In any such case, the original signed statements serve as evidence of original intent and context.  The participants can represent themselves, and a costly case involving the county and state courts is avoided.  Furthermore, cryptographic signatures are much more difficult to forge, provided the person guards access to their devices.  What if we allow people to select only certain devices that can be used for signatures?  Or require that multiple devices be used?  These are ways we can use known technologies to create trust and confidence, and increase people's agency and autonomy.

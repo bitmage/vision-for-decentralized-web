@@ -1,0 +1,3 @@
+Implementation of [[Public & Secret Key]], [[Private Communication]].
+
+Ockam is essentially a message bus.  I remember my joy of building [Axiom](https://github.com/torchlightsoftware/axiom) and realizing how much clarity it enabled into what was going on in my system.  I see they've set logging at "info" by default which gives a lot of information on what the system itself is doing, booting up, shutting down, setting access policies.

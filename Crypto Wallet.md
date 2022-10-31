@@ -1,0 +1,1 @@
+Makes use of [[Public & Secret Key]], [[Community Currency]], [[Cryptocurrency]].

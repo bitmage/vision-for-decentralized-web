@@ -1,0 +1,1 @@
+Makes use of [[Public Ledger]] technology, but shares records only with members.

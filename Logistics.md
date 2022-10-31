@@ -1,0 +1,1 @@
+Makes use of [[Resource Location Awareness]], [[Community Currency]], [[Clearinghouse]], [[Goods & Services Marketplace]].
