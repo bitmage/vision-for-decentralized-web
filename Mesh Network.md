@@ -1,3 +1,5 @@
+Created On: [[2022-10-22]] 
+
 ##### Overview
 
 Mesh technologies are in development by various parties.  Could these technologies be used to create a network more resilient to physical failures and disasters?  Could this provide more democratic access to the internet, resilient to cancel culture and government and corporate censorship?

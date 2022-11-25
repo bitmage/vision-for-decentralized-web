@@ -1,1 +1,1 @@
-Makes use of [[Public & Secret Key]], [[Community Currency]], [[Cryptocurrency]].
+Makes use of [[Public & Secret Key]], [[Landscape - Tech/Vision for Decentralized Web/Community Currency]], [[Cryptocurrency]].

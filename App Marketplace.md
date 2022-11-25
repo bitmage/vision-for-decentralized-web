@@ -1,6 +1,6 @@
 Tags: #public-ledger 
 
-Makes use of [[App Registry]], [[App Auditing]], [[Cryptocurrency]], [[Community Currency]].
+Makes use of [[App Registry]], [[App Auditing]], [[Cryptocurrency]], [[Landscape - Tech/Vision for Decentralized Web/Community Currency]].
 
 Instead of monopolies such as the Google and Apple app stores, what if we had a diversity of different marketplaces?  These marketplaces might curate different kinds of applications for different users.  They might editorialize and post news and other content that is relevant for the people they serve.
 

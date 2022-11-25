@@ -1,4 +1,4 @@
-Generally, a Public Ledger may be used for any information which is intended to be public, and which benefits from a consistent verification methodology.  This includes [[Community Currency]], [[Proof of Ownership]], [[Public Agreement]], and [[Public Accountability Ledger]].
+Generally, a Public Ledger may be used for any information which is intended to be public, and which benefits from a consistent verification methodology.  This includes [[Landscape - Tech/Vision for Decentralized Web/Community Currency]], [[Proof of Ownership]], [[Public Agreement]], and [[Public Accountability Ledger]].
 
 For some use cases it may not be appropriate to have member nodes spread around the globe.  It may be appropriate to have a regional network, a municipality network, or a network limited to membership of an organization, a conversation, or other group of people.
 

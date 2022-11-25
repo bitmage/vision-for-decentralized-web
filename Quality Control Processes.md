@@ -1,3 +1,5 @@
+Created On: [[2022-10-22]] 
+
 Quality control proceeds through four phases:
 
 * Production

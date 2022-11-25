@@ -1,3 +1,5 @@
+Created On: [[2022-10-22]] 
+
 This is the foundation for a free digital landscape, honoring individual autonomy.  Self-Sovereign means that any individual, and indeed any computing device, can generate their own identity without the need for any brokers or gatekeepers.  If there were one or more standard formats for SSID it would mean:
 
 1. You would no longer have to create a unique ID for every website or service that you sign up for.

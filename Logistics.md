@@ -1,1 +1,1 @@
-Makes use of [[Resource Location Awareness]], [[Community Currency]], [[Clearinghouse]], [[Goods & Services Marketplace]].
+Makes use of [[Resource Location Awareness]], [[Landscape - Tech/Vision for Decentralized Web/Community Currency]], [[Clearinghouse]], [[Goods & Services Marketplace]].

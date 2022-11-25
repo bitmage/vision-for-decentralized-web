@@ -1,3 +1,5 @@
+Created On: [[2022-10-22]] 
+
 A DHT can be used for [[Peer Discovery]] and also can be used to implement a distributed database, allowing for [[Encrypted Storage as a Service]].  A DHT may also be a useful foundation for a [[Public Ledger]], for message propagation, and for data redundancy.
 
 The core idea behind a DHT is that a hashing algorithm is used on each piece of content to be stored.  We then "slice the pie" giving each available node an equally sized address range.  Whatever hash our content ends up with, the appropriate node will be selected to store it.  The address space can also be repeated multiple times over the set of nodes, creating data redundancy for resilience and access speed.

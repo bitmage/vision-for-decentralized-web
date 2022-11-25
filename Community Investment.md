@@ -1,1 +1,1 @@
-Makes use of [[Community Currency]], [[Governance]].
+Makes use of [[Landscape - Tech/Vision for Decentralized Web/Community Currency]], [[Governance]].
