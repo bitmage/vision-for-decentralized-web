@@ -26,3 +26,4 @@ https://meshtastic.org/docs/getting-started
 
 [APRS Direct - map of HAM radio nodes](https://www.aprsdirect.com/)
 
+https://www.remnantlink.com/ - mentioned on Solari.com

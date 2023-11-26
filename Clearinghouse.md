@@ -1,1 +1,1 @@
-Makes use of [[Goods & Services Marketplace]], [[Landscape - Tech/Vision for Decentralized Web/Community Currency]]
+Makes use of [[Goods & Services Marketplace]], [[Initiatives/Landscape - Tech/Vision for Decentralized Web/Community Currency]]
